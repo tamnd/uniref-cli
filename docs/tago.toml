@@ -1,0 +1,10 @@
+title       = "uniref"
+baseURL     = "https://uniref-cli.tamnd.com/"
+description = "A command line for uniref."
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/uniref-cli"
